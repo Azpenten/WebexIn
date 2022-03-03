@@ -1,0 +1,14 @@
+C:\Users\Player\source\repos\WebexIn\bin\Debug\WebexIn.exe.config
+C:\Users\Player\source\repos\WebexIn\bin\Debug\WebexIn.exe
+C:\Users\Player\source\repos\WebexIn\bin\Debug\WebexIn.pdb
+C:\Users\Player\source\repos\WebexIn\bin\Debug\WebexIn.xml
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.vbprojAssemblyReference.cache
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.Form1.resources
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.Resources.resources
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.vbproj.GenerateResource.cache
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.exe
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.xml
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.pdb
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.Form2.resources
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.Form3.resources
+C:\Users\Player\source\repos\WebexIn\obj\Debug\WebexIn.Form4.resources
